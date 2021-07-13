@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'RR';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'RB';
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'NSR';
+    src: url(../fonts/NunitoSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'NSB';
+    src: url(../fonts/NunitoSans-Bold.ttf);
+}
